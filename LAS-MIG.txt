@@ -1,0 +1,13 @@
+SKÄGGEBO VVS – KOMPLETT HEMSIDA FÖR GITHUB PAGES
+
+Packa upp ZIP-filen. Ladda upp alla 12 HTML-filer, hela mappen assets och .nojekyll till ditt GitHub-repository.
+index.html ska ligga direkt i huvudmappen, inte inuti en extra mapp.
+Aktivera GitHub Pages under Settings > Pages. Välj din huvudgren och / (root).
+
+Alla 17 bilder ligger lokalt. Alla bildvägar och sidlänkar är relativa och fungerar även i en GitHub-undermapp.
+Indexfilen ensam räcker inte: ladda upp hela innehållet i ZIP-filen. Ingen installation eller byggprocess behövs.
+
+Design och innehåll är behållna. Originalfilerna är orörda.
+Google Fonts laddas fortfarande från Google; reservtypsnitt finns.
+Canonical, Open Graph och strukturerade företagsdata behåller originalets domän. Uppdatera dessa om slutadressen ändras.
+Delningsbildens absoluta originaladress är behållen i Open Graph. Det påverkar inte sidornas lokala bilder.
